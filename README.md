@@ -18,7 +18,7 @@ Nodes can join the ring in two ways:
 ### Node Leave
 A departing node transfers ownership of its stored keys to its predecessor and informs its neighbors to update routing pointers.
 
-### 🔗 Chord-Style Shortcuts
+### Chord-Style Shortcuts
 Nodes may maintain an optional shortcut link to accelerate routing.
 
 ### Hybrid Communication Model
