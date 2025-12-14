@@ -72,6 +72,7 @@ make
 
 ## Run
 
+```bash
 ./ring <key> <ip> <port>
-
+```
 
