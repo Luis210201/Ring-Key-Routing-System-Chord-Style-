@@ -64,8 +64,10 @@ Nodes communicate using a simple message protocol and implement the required fun
 
 ```bash
 make
+```
 
-This produces the the executable: ring
+- This produces the the executable: ring
+
 ---
 
 ## Run
